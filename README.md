@@ -1,6 +1,7 @@
 ### Hi there 👋
-- ✨I am a 3rd year student at Düzce University, Department of Management Information Systems.
+- ✨I am a 4th year student at Düzce University, Department of Management Information Systems.
 - 🌱 I’m currently learning artificial intelligence
+
 
 <!--
 **beyzanrgulec/beyzanrgulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
